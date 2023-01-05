@@ -1777,6 +1777,11 @@ acorn@^7.1.1, acorn@^7.4.0:
   resolved "https://registry.npmmirror.com/acorn/download/acorn-7.4.1.tgz#feaed255973d2e77555b83dbc08851a6c63520fa"
   integrity sha512-nQyp0o1/mNdbTO1PO6kHkwSrmgZ0MT/jCCpNiwbUjGoRN4dlBhqJtoQuCnEOKzgTVwg0ZWiCoQy6SxMebQVh8A==
 
+action-spider@^1.2.0:
+  version "1.2.1"
+  resolved "https://registry.npmmirror.com/action-spider/-/action-spider-1.2.1.tgz#02aec72829351ba51474e8f47725fd2f53ffd43c"
+  integrity sha512-6dHEM7E5rjdRCbibWvKooXv4hVXqKR+wpgYcA5ceco7UAdyUZ7qG+77Uma5xVZ4cn8d2dt4KA2a+lCPveVlJig==
+
 address@^1.1.2:
   version "1.1.2"
   resolved "https://registry.npmmirror.com/address/download/address-1.1.2.tgz#bf1116c9c758c51b7a933d296b72c221ed9428b6"
