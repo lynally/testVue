@@ -1,6 +1,5 @@
 #!/bin/bash
 cd /root
-npm config set registry https://registry.npmmirror.com
-pnpm install
+yarn
 pnpm run build
 
