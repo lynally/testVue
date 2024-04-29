@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>基础练习</h1>
-    <h1>部署到服务求2</h1>
+    <h1>部署到服务求3</h1>
     <p :title="msg">{{ msg }}</p>
     <ul>
       <li v-for="obj in objs" :key="obj.id">
