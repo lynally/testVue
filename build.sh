@@ -1,4 +1,5 @@
 #!/bin/bash
+pwd
 # 检查 yarn 是否安装
 if ! command -v yarn &> /dev/null
 then
