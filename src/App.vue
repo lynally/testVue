@@ -6,6 +6,14 @@
       <router-link to="/TestSlot">Slot</router-link>
     </div>
     <router-view />
+    <div>
+      <p class="foot">
+        备案号：
+        <a href="https://beian.miit.gov.cn/" target="_blank">
+          冀ICP备2023002072号
+      </a>
+      </p>
+    </div>
   </div>
 </template>
 
@@ -29,5 +37,12 @@
 
 #nav a.router-link-exact-active {
   color: #42b983;
+}
+.foot {
+  position: fixed;
+  bottom: 50px;
+  width: 100%;
+  left: 0;
+  text-align: center;
 }
 </style>
