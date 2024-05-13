@@ -7,12 +7,8 @@
     </div>
     <router-view />
     <div>
-      <p class="foot">
-        备案号：
-        <a href="https://beian.miit.gov.cn/" target="_blank">
-          冀ICP备2023002072号
-      </a>
-      </p>
+      <a href="https://beian.miit.gov.cn/" target="_blank">您的备案号</a>
+      <a href="https://beian.miit.gov.cn/" target="_blank">冀ICP备2023002072号</a>
     </div>
   </div>
 </template>
